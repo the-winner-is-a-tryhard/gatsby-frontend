@@ -7,6 +7,10 @@ p, h1, h2, h3, h4, h5, h6, li, small, text, header {
     border-bottom-color: #424242;
 }
 
+hr {
+    background-color: #424242;
+}
+
 p code {
     background-color: #725c9e !important;
     color: #e8dfd7 !important;
