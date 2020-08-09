@@ -49,7 +49,7 @@ git clone git@github.com:the-winner-is-a-tryhard/gatsby-frontend.git
 cd TWIATH
 gatsby develop
 ```
-Navigate to [http://localhost:8000/](http://localhost:8000/) in the browser.
+Navigate to `http://localhost:8000` in the browser.
 
 ## Creating a New Branch
 TBD
