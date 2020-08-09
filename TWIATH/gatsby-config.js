@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `The Winner is Tryhard`,
+    title: `The Winner Is a Tryhard`,
     author: {
-      name: `The Winner is a Tryhard`,
+      name: `The Winner Is a Tryhard`,
       summary: `is the dankest fantasy football league of all time. Travis James is the reigning champion, and Caleb Trantow is the current Sacko.`,
     },
     description: `Power rankings and blog posts from The Winner is a Tryhard`,
