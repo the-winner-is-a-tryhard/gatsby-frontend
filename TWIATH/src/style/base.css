@@ -2,7 +2,7 @@ html {
     background-color: #031b21;
 }
 
-p, h1, h2, h3, h4, h5, h6, li {
+p, h1, h2, h3, h4, h5, h6, li, small {
     color: #e8dfd7 !important;
     border-bottom-color: #424242;
 }
