@@ -141,3 +141,4 @@ git commit -m "Adding my super thoughtful power rankings"
 git push origin scottie-power-rankings-week-one 
 ```
 From the GitHub web UI, open a pull request and select your branch with the changes. Add `@scottenriquez` or `@callentrail` as reviewers. Once we approve, your post will be published via Netlify's integration.
+
