@@ -4,6 +4,8 @@ date: "2020-08-08T22:12:03.284Z"
 description: "Documentation for creating new content."
 author: "Scottie Enriquez"
 ---
+## Build Status
+[![Netlify](https://api.netlify.com/api/v1/badges/c3f97884-6b75-4f7c-bab0-7687b0a5ddba/deploy-status)](https://app.netlify.com/sites/loving-bell-d3f55f/deploys)
 
 ## Overview
 The Winner Is a Tryhard is now a Gatsby blog hosted on Netlify replacing the vanilla React frontend and Lambda backend for serving dynamic content. Gatsby uses Markdown (or MDX) syntax for writing blog posts, which should streamline the writing process for everyone. By utilizing the pull request system on GitHub, the publishing process will also be self-service thanks to the Netlify CI/CD tooling. This documentation will cover:
@@ -37,7 +39,7 @@ npm i -g gatsby-cli
 
 ## Configuring SSH Keys and Git
 In order to push commits to the remote origin from your local machine, you'll need to [create a new SSH key](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) and [add the key to your account](https://docs.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account). Set up your global name and email on your machine as well.
-```
+```shell
 git config --global user.name "Your Name"
 git config --global user.email "youremail@yourdomain.com"
 ```
