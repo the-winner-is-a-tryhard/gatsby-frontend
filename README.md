@@ -15,7 +15,7 @@ If you don't have an account already, [join here](https://github.com/join). Afte
 
 ## Setting Up Your Development Environment
 Make sure you have the following software installed:
-- Git (and Git BASH for Windows)
+- Git
 - Node.js
 - A code editor like Visual Studio Code
 - A terminal emulator like iTerm 2 for macOS, Git BASH for Windows, etc.
