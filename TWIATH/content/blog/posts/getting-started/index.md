@@ -52,16 +52,93 @@ gatsby develop
 Navigate to `http://localhost:8000` in the browser.
 
 ## Creating a New Branch
-TBD
+If your terminal or editor doesn't automatically show you which branch you're working in, use the `git status` command to find out. Don't commit any new posts directly to the `main` branch. Instead, create a new branch for a specific purpose (i.e., `scottie-power-rankings-week-one`) locally and push it to the remote origin.
+```shell
+git checkout -b scottie-power-rankings-week-one
+git push origin -u scottie-power-rankings-week-one
+```
 
 ## Creating a New Post
-TBD
+Navigate to `/gatsby-frontend/TWIATH/content/blog/posts` in your code editor and create a new folder called `week-<NUMBER>-<NAME>-power-rankings`. The URL path is set to this directory's name, so it must be unique. Inside this folder, add a file called `index.md` for the blog post itself. The post content is written in Markdown. Here's a starter template:
+```markdown
+---
+title: Scottie's Week One Power Rankings 
+date: "2020-08-12T22:12:03.284Z"
+description: "Some witty description goes here."
+author: "Scottie Enriquez"
+tags: ["Power Rankings"]
+---
+
+## Scottie (0-0)
+Thoughtful analysis.
+
+## Callen (0-0)
+Thoughtful analysis.
+
+## Cral (0-0)
+Thoughtful analysis.
+
+## Trond (0-0)
+Thoughtful analysis.
+
+## K-Man (0-0)
+Thoughtful analysis.
+
+## Carlos (0-0)
+Thoughtful analysis.
+
+## Claeb (0-0)
+Thoughtful analysis.
+
+## John (0-0)
+Don't trade with John.
+
+## Cramsey (0-0)
+Thoughtful analysis.
+
+## The Mrak (0-0)
+Thoughtful analysis.
+
+## Tarv (0-0)
+Thoughtful analysis.
+
+## Logz (0-0)
+Thoughtful analysis.
+```
 
 ## Using Markdown
-TBD
+The section wrapped in `---` is called the slug. It contains metadata for querying posts using GraphQL. `##` wraps proceeding text in an `<h2>` tag. All other text gets wrapped in a `<p>` tag. [Markdown offers many powerful features](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) such as embedding images, creating hyperlinks, and adding syntax highlighting. The site can serve image content as well. You can add an image file to the same directory as the `index.md` and embed using a local path (i.e., `![Image description](./image.png)` in `index.md` for the directory below).
+```
+├── assets
+│   └── champion.png
+└── blog
+    └── posts
+        └── getting-started
+            ├── image.png
+            └── index.md
+```
 
 ## MDX
-TBD
+This Gatsby site is configured to support MDX. MDX adds a new dimension of features in Markdown pages by seamlessly integrating JSX, which allows for writing HTML inside of JavaScript statements.
+```jsx
+const element = <h1>Hello, world!</h1>;
+```
+Markdown syntax is simple and allows for content structuring, but the ability to write JavaScript inside of it allows for dynamic content such as charts and HTTP calls. The MDX syntax for adding React components is straightforward.
+```markdown
+import MyReactComponent from '../src/components/myReactComponent'
 
-## Submitting a Pull Request
-TBD
+# H1 Text
+This gets wrapped in a <p> tag.
+
+<MyReactComponent input={'Hello, world!'} />
+``` 
+
+## Committing, Pushing, and Submitting a Pull Request 
+Once you've finished writing your content, publishing your changes is automated via CI/CD. First, commit and push to your branch.
+```shell
+git add .
+git commit -m "Adding my super thoughtful power rankings"
+git push origin scottie-power-rankings-week-one 
+```
+From the GitHub web UI, open a pull request and select your branch with the changes. Add `@scottenriquez` or `@callentrail` as reviewers. Once we approve, your post will be published via Netlify's integration.
+
