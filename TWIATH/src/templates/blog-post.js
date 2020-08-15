@@ -34,7 +34,8 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
               marginBottom: rhythm(1),
             }}
           >
-            {post.frontmatter.date} | {post.frontmatter.author}
+            {post.frontmatter.date} | {post.frontmatter.author} |{" "}
+            <span className="post-tag">{post.frontmatter.tag}</span>
           </p>
         </header>
         <MDXRenderer>{post.body}</MDXRenderer>
@@ -96,6 +97,7 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         description
         author
+        tag
       }
     }
   }
