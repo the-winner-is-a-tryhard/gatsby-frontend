@@ -28,7 +28,9 @@ const BlogIndex = ({ data, location }) => {
                   {title}
                 </Link>
               </h3>
-              <small>{node.frontmatter.date}</small> | <small>{node.frontmatter.author}</small>
+              <small>{node.frontmatter.date}</small> |{" "}
+              <small>{node.frontmatter.author}</small> |{" "}
+              <small className="post-tag">{node.frontmatter.tag}</small>
             </header>
             <section>
               <p
@@ -65,6 +67,7 @@ export const pageQuery = graphql`
             title
             description
             author
+            tag
           }
         }
       }

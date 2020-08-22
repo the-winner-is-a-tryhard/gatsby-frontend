@@ -30,3 +30,16 @@ body a:focus {
     background-color: #725c9e;
     border-radius: 5px;
 }
+
+.sleeper-avatar {
+    height: 25px;
+    border-radius: 50%;
+    margin-bottom: 0;
+}
+
+.post-tag {
+    color: #e8dfd7 !important;
+    background-color: #db617d;
+    border-radius: 5px;
+    padding: 2px;
+}
