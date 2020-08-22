@@ -80,64 +80,40 @@ git push origin -u scottie-power-rankings-week-one
 
 ## Creating a New Post
 
-Navigate to `/gatsby-frontend/TWIATH/content/blog/posts` in your code editor and create a new folder called `week-<NUMBER>-<NAME>-power-rankings`. The URL path is set to this directory's name, so it must be unique. Inside this folder, add a file called `index.md` for the blog post itself. The post content is written in Markdown. Here's a starter template:
+Use the [power rankings CLI](/posts/power-rankings-cli/) to generate new posts. The generated template lists each league member with fantasy football data from Sleeper and their avatars stored on a private CDN.
 
 ```markdown
 ---
-title: Scottie's Week One Power Rankings
-date: "2020-08-12T22:12:03.284Z"
-description: "Some witty description goes here."
+title: "Scottie's Week One Power Rankings"
+date: "2020-08-22T21:54:41.559Z"
+description: "Scottie's dope power rankings."
 author: "Scottie Enriquez"
-tags: ["Power Rankings"]
+tag: "Power Rankings"
 ---
 
-## Scottie (0-0)
+## <img src="https://twiath-site-cdn.s3.amazonaws.com/nfl_dal-one-scottie" class="sleeper-avatar"/> 🏆‼️ | 0-0W/L | 0PF
 
-Thoughtful analysis.
+## <img src="https://twiath-site-cdn.s3.amazonaws.com/1bac27b3e88d08f050e32b48195acf46-one-scottie" class="sleeper-avatar"/> markhambone | 0-0W/L | 0PF
 
-## Callen (0-0)
+## <img src="https://twiath-site-cdn.s3.amazonaws.com/400266e997f2d0857da2c8f2b939fda4-one-scottie" class="sleeper-avatar"/> BigOleDoinks | 0-0W/L | 0PF
 
-Thoughtful analysis.
+## <img src="https://twiath-site-cdn.s3.amazonaws.com/405213591fe488220f2f4f79d9cc28eb-one-scottie" class="sleeper-avatar"/> Glizzy Guzzlers | 0-0W/L | 0PF
 
-## Cral (0-0)
+## <img src="https://twiath-site-cdn.s3.amazonaws.com/379f5379a3205b9706e6a4b7b4471a8e-one-scottie" class="sleeper-avatar"/> Manhattan (KS) Miracles | 0-0W/L | 0PF
 
-Thoughtful analysis.
+## <img src="https://twiath-site-cdn.s3.amazonaws.com/1fe089e517448d9fe207b8607ca8e81b-one-scottie" class="sleeper-avatar"/> jyarrow | 0-0W/L | 0PF
 
-## Trond (0-0)
+## <img src="https://twiath-site-cdn.s3.amazonaws.com/49b1d67d6b1562f8ef7d03645a046694-one-scottie" class="sleeper-avatar"/> Bijan Mustard | 0-0W/L | 0PF
 
-Thoughtful analysis.
+## <img src="https://twiath-site-cdn.s3.amazonaws.com/23fe4994d864928df8f99d56b60c9179-one-scottie" class="sleeper-avatar"/> lrich91 | 0-0W/L | 0PF
 
-## K-Man (0-0)
+## K(icker) Man | 0-0W/L | 0PF
 
-Thoughtful analysis.
+## <img src="https://twiath-site-cdn.s3.amazonaws.com/d57bddeb09e102a2b7556973dc6301fb-one-scottie" class="sleeper-avatar"/> Court is in Sutton | 0-0W/L | 0PF
 
-## Carlos (0-0)
+## <img src="https://twiath-site-cdn.s3.amazonaws.com/61bfca158073b2dda70f755d92aacad9-one-scottie" class="sleeper-avatar"/> CDC Lamb | 0-0W/L | 0PF
 
-Thoughtful analysis.
-
-## Claeb (0-0)
-
-Thoughtful analysis.
-
-## John (0-0)
-
-Don't trade with John.
-
-## Cramsey (0-0)
-
-Thoughtful analysis.
-
-## The Mrak (0-0)
-
-Thoughtful analysis.
-
-## Tarv (0-0)
-
-Thoughtful analysis.
-
-## Logz (0-0)
-
-Thoughtful analysis.
+## <img src="https://twiath-site-cdn.s3.amazonaws.com/320f9195b391718105e27b8cc9d40277-one-scottie" class="sleeper-avatar"/> almostwinning | 0-0W/L | 0PF
 ```
 
 ## Using Markdown
