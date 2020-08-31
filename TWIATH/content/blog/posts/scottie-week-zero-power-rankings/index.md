@@ -28,7 +28,7 @@ Carl drafted very well per usual. I think Lamar Jackson should finish as the sec
 
 ## <img src="https://d1yqxti3jheii7.cloudfront.net/405213591fe488220f2f4f79d9cc28eb-zero-scottie" class="sleeper-avatar"/> Glizzy Guzzlers | 0-0W/L | 0PF
 
-The running backs are my biggest concern with Callen's team. Austin Ekeler was a great keeper, but Cam Akers is unknown at this point. He will control the carries, but who knows how he'll perform. Aaron Jones is at risk of the AJ Dillon hype. The wide receivers look pretty reliable even though the only name that jumps off the page is Davante Adams. I'm sure Callen did all the research to pick dudes who will have an excellent point median from this crew.
+The running backs are my biggest concern with Callen's team. Austin Ekeler was a great keeper, but Cam Akers is unknown at this point. He will control the carries, but who knows how he'll perform. Aaron Jones is at risk of the AJ Dillon hype. The wide receivers look pretty reliable even though the only name that jumps off the page is Davante Adams. I'm sure Callen did all the research to pick dudes who will have an excellent point median.
 
 ## K(icker) Man | 0-0W/L | 0PF
 
