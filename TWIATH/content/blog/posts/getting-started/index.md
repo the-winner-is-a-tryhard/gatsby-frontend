@@ -120,7 +120,7 @@ tag: "Power Rankings"
 
 The section wrapped in `---` is called the slug. It contains metadata for querying posts using GraphQL. `##` wraps proceeding text in an `<h2>` tag. All other text gets wrapped in a `<p>` tag. [Markdown offers many powerful features](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) such as embedding images, creating hyperlinks, and adding syntax highlighting. The site can serve image content as well. You can add an image file to the same directory as the `index.md` and embed using a local path (i.e., `![Image description](./image.png)` in `index.md` for the directory below).
 
-```
+```shell
 ├── assets
 │   └── champion.png
 └── blog
