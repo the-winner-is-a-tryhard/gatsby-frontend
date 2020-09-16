@@ -42,7 +42,7 @@ I think Mark's team underperformed this week but fully expect them to bounce bac
 Andrew's team overperformed this week without a doubt. He's going to be salty about this, but I'm wary of teams who win based on a few dominant performances. Mark Andrews and Robbie Anderson aren't the core of a good team. Ronald Jones runs the risk of losing more carries to Leonard Fournette. Devin Singletary doesn't inspire confidence either.
 
 
-## <img src="https://d1yqxti3jheii7.cloudfront.net/405213591fe488220f2f4f79d9cc28eb-one-scottie" class="sleeper-avatar"/> Glizzy Guzzlers | 0-1W/L | 91PF
+## <FontAwesomeIcon className="levelUp" icon={faLevelUpAlt} /> <img src="https://d1yqxti3jheii7.cloudfront.net/405213591fe488220f2f4f79d9cc28eb-one-scottie" class="sleeper-avatar"/> Glizzy Guzzlers | 0-1W/L | 91PF
 
 > More importantly, maybe, is that I have a high upside rookie in Akers...
 
