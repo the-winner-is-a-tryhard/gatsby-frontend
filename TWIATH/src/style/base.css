@@ -16,6 +16,44 @@ p code {
     color: #e8dfd7 !important;
 }
 
+.levelUp {
+    color: #9dd8d7;
+}
+
+.levelDown {
+    color: #db617d;
+}
+
+blockquote {
+    background: #424242;
+    border-left: 10px solid #db617d;
+    margin: 1.5em 10px;
+    padding: 0.5em 10px;
+    quotes: "“" "”" "‘" "’";
+}
+
+blockquote:before {
+    color: #db617d;
+    content: open-quote;
+    font-size: 4em;
+    line-height: 0.1em;
+    margin-right: 0.25em;
+    vertical-align: -0.4em;
+}
+
+blockquote:after {
+    color: #db617d;
+    content: close-quote;
+    font-size: 4em;
+    line-height: 0.1em;
+    margin-left: 0.25em;
+    vertical-align: -0.4em;
+}
+
+blockquote p {
+    display: inline;
+}
+
 body a {
     color: #9dd8d7 !important;
     -webkit-transition: all .2s ease-in-out;

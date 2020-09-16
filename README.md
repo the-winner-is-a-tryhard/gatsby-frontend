@@ -1,5 +1,5 @@
 ## Build Status
-[![Netlify](https://api.netlify.com/api/v1/badges/c3f97884-6b75-4f7c-bab0-7687b0a5ddba/deploy-status)](https://app.netlify.com/sites/loving-bell-d3f55f/deploys)
+[![Netlify](https://api.netlify.com/api/v1/badges/4192e85d-f2e4-44c3-855b-4159f9479efd/deploy-status)](https://app.netlify.com/sites/focused-swartz-8c4a84/deploys)
 
 ## Overview
 The Winner Is a Tryhard is now a Gatsby blog hosted on Netlify replacing the vanilla React frontend and Lambda backend for serving dynamic content. Gatsby uses Markdown (or MDX) syntax for writing blog posts, which should streamline the writing process for everyone. By utilizing the pull request system on GitHub, the publishing process will also be self-service thanks to the Netlify CI/CD tooling. This documentation will cover:
