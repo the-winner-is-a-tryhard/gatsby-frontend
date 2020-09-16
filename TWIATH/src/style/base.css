@@ -18,10 +18,12 @@ p code {
 
 .levelUp {
     color: #9dd8d7;
+    height: 30px;
 }
 
 .levelDown {
     color: #db617d;
+    height: 30px;
 }
 
 blockquote {
