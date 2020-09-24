@@ -16,6 +16,17 @@ p code {
     color: #e8dfd7 !important;
 }
 
+table {
+    table-layout: fixed;
+    max-width: inherit !important;
+}
+
+table, tr, td, th {
+    color: #e8dfd7;
+    border-top: 1px solid #e8dfd7;
+    border-bottom: 1px solid #e8dfd7;
+}
+
 .levelUp {
     color: #9dd8d7;
     height: 30px;
