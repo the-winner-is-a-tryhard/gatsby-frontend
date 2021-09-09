@@ -3,7 +3,7 @@ module.exports = {
     title: `The Winner Is a Tryhard`,
     author: {
       name: `The Winner Is a Tryhard`,
-      summary: `is the dankest fantasy football league of all time. Travis James is the reigning champion, and Caleb Trantow is the current Sacko.`,
+      summary: `is the dankest fantasy football league of all time. Travis James is the reigning champion, and John Yarrow is the current Sacko.`,
     },
     description: `Power rankings and blog posts from The Winner is a Tryhard`,
     siteUrl: `https://thewinnerisatryhard.org`,
