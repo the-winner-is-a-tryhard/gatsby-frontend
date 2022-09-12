@@ -295,7 +295,7 @@ a:focus {
   margin-right: var(--spacing-4);
   margin-bottom: var(--spacing-0);
   min-width: 50px;
-  border-radius: 100%;
+  border-radius: 50% !important;
 }
 
 .blog-post header h1 {
