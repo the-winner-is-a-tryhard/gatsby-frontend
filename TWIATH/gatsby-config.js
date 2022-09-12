@@ -141,5 +141,16 @@ module.exports = {
         pathToConfigModule: `src/utils/typography`,
       },
     },
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `The Winner Is a Tryhard`,
+        short_name: `TWIATH`,
+        start_url: `/`,
+        background_color: `#ffffff`,
+        display: `minimal-ui`,
+        icon: `src/images/champion.png`, // This path is relative to the root of the site.
+      },
+    },
   ],
 }
