@@ -1,49 +1,52 @@
-import React from "react"
+import * as React from "react"
 import { Link, graphql } from "gatsby"
+
 import Bio from "../components/bio"
 import Layout from "../components/layout"
-import SEO from "../components/seo"
-import { rhythm } from "../utils/typography"
-import "../style/base.css"
+import Seo from "../components/seo"
 
 const BlogIndex = ({ data, location }) => {
-  const siteTitle = data.site.siteMetadata.title
-  const posts = data.allMdx.edges
+    const siteTitle = data.site.siteMetadata?.title || `Title`
+    const posts = data.allMdx.edges
 
-  return (
-    <Layout location={location} title={siteTitle}>
-      <SEO title="All posts" />
-      <Bio />
-      {posts.map(({ node }) => {
-        const title = node.frontmatter.title || node.fields.slug
-        return (
-          <article key={node.fields.slug}>
-            <header>
-              <h3
-                style={{
-                  marginBottom: rhythm(1 / 4),
-                }}
-              >
-                <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
-                  {title}
-                </Link>
-              </h3>
-              <small>{node.frontmatter.date}</small> |{" "}
-              <small>{node.frontmatter.author}</small> |{" "}
-              <small className="post-tag">{node.frontmatter.tag}</small>
-            </header>
-            <section>
-              <p
-                dangerouslySetInnerHTML={{
-                  __html: node.frontmatter.description || node.excerpt,
-                }}
-              />
-            </section>
-          </article>
-        )
-      })}
-    </Layout>
-  )
+    return (
+        <Layout location={location} title={siteTitle}>
+            <Seo title="All posts" />
+            <Bio />
+            <ol style={{ listStyle: `none` }}>
+                {posts.map(post => {
+                    const title = post.node.frontmatter.title || post.node.fields.slug
+
+                    return (
+                        <li key={post.node.fields.slug}>
+                            <article
+                                className="post-list-item"
+                                itemScope
+                                itemType="http://schema.org/Article"
+                            >
+                                <header>
+                                    <h2>
+                                        <Link to={post.node.fields.slug} itemProp="url">
+                                            <span itemProp="headline">{title}</span>
+                                        </Link>
+                                    </h2>
+                                    <small>{post.node.frontmatter.date}</small>
+                                </header>
+                                <section>
+                                    <p
+                                        dangerouslySetInnerHTML={{
+                                            __html: post.node.frontmatter.description || post.node.excerpt,
+                                        }}
+                                        itemProp="description"
+                                    />
+                                </section>
+                            </article>
+                        </li>
+                    )
+                })}
+            </ol>
+        </Layout>
+    )
 }
 
 export default BlogIndex
@@ -66,7 +69,6 @@ export const pageQuery = graphql`
             date(formatString: "MMMM DD, YYYY")
             title
             description
-            author
             tag
           }
         }

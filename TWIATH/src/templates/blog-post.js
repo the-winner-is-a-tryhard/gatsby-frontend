@@ -1,82 +1,87 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
-import { MDXRenderer } from "gatsby-plugin-mdx"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import { MDXRenderer } from "gatsby-plugin-mdx"
 import { rhythm, scale } from "../utils/typography"
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
+import { faArrowCircleRight } from "@fortawesome/free-solid-svg-icons"
+import { faArrowCircleLeft } from "@fortawesome/free-solid-svg-icons"
 
 const BlogPostTemplate = ({ data, pageContext, location }) => {
-  const post = data.mdx
-  const siteTitle = data.site.siteMetadata.title
-  const { previous, next } = pageContext
+    const post = data.mdx
+    const siteTitle = data.site.siteMetadata.title
+    const { previous, next } = pageContext
 
-  return (
-    <Layout location={location} title={siteTitle}>
-      <SEO
-        title={post.frontmatter.title}
-        description={post.frontmatter.description || post.excerpt}
-      />
-      <article>
-        <header>
-          <h1
-            style={{
-              marginTop: rhythm(1),
-              marginBottom: 0,
-            }}
-          >
-            {post.frontmatter.title}
-          </h1>
-          <p
-            style={{
-              ...scale(-1 / 5),
-              display: `block`,
-              marginBottom: rhythm(1),
-            }}
-          >
-            {post.frontmatter.date} | {post.frontmatter.author} |{" "}
-            <span className="post-tag">{post.frontmatter.tag}</span>
-          </p>
-        </header>
-        <MDXRenderer>{post.body}</MDXRenderer>
-        <hr
-          style={{
-            marginBottom: rhythm(1),
-          }}
-        />
-        <footer>
-          <Bio />
-        </footer>
-      </article>
+    return (
+        <Layout location={location} title={siteTitle}>
+            <SEO
+                title={post.frontmatter.title}
+                description={post.frontmatter.description || post.excerpt}
+            />
+            <article>
+                <header>
+                    <h1
+                        style={{
+                            marginTop: rhythm(1),
+                            marginBottom: 0,
+                        }}
+                    >
+                        {post.frontmatter.title}
+                    </h1>
+                    <p
+                        style={{
+                            ...scale(-1 / 5),
+                            display: `block`,
+                            marginBottom: rhythm(1),
+                        }}
+                    >
+                        {post.frontmatter.date} |{" "}
+                        <span className="post-tag">{post.frontmatter.tag}</span>
+                    </p>
+                </header>
+                <MDXRenderer>{post.body}</MDXRenderer>
+                <hr
+                    style={{
+                        marginBottom: rhythm(1),
+                    }}
+                />
+                <footer>
+                    <Bio />
+                </footer>
+            </article>
 
-      <nav>
-        <ul
-          style={{
-            display: `flex`,
-            flexWrap: `wrap`,
-            justifyContent: `space-between`,
-            listStyle: `none`,
-            padding: 0,
-          }}
-        >
-          <li>
-            {previous && (
-              <Link to={previous.fields.slug} rel="prev">
-                ← {previous.frontmatter.title}
-              </Link>
-            )}
-          </li>
-          <li>
-            {next && (
-              <Link to={next.fields.slug} rel="next">
-                {next.frontmatter.title} →
-              </Link>
-            )}
-          </li>
-        </ul>
-      </nav>
-    </Layout>
-  )
+            <nav>
+                <ul
+                    style={{
+                        display: `flex`,
+                        flexWrap: `wrap`,
+                        justifyContent: `space-between`,
+                        listStyle: `none`,
+                        padding: 0,
+                    }}
+                >
+                    <li>
+                        {previous && (
+                            <Link to={previous.fields.slug} rel="prev">
+                                <FontAwesomeIcon icon={faArrowCircleLeft} />{" "}
+                                {previous.frontmatter.title}
+                            </Link>
+                        )}
+                    </li>
+                    <li>
+                        {next && (
+                            <Link to={next.fields.slug} rel="next">
+                                {next.frontmatter.title}{" "}
+                                <FontAwesomeIcon icon={faArrowCircleRight} />
+                            </Link>
+                        )}
+                    </li>
+                </ul>
+            </nav>
+        </Layout>
+    )
 }
 
 export default BlogPostTemplate
@@ -96,7 +101,6 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
-        author
         tag
       }
     }

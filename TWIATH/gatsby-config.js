@@ -3,10 +3,10 @@ module.exports = {
     title: `The Winner Is a Tryhard`,
     author: {
       name: `The Winner Is a Tryhard`,
-      summary: `is the dankest fantasy football league of all time. Travis James is the reigning champion, and John Yarrow is the current Sacko.`,
+      summary: `is the dankest fantasy football league of all time. Matt Kniowski is the reigning champion, and Logan Richardson is the current Sacko.`,
     },
-    description: `Power rankings and blog posts from The Winner is a Tryhard`,
-    siteUrl: `https://thewinnerisatryhard.org`,
+    description: `A starter blog demonstrating what Gatsby can do.`,
+    siteUrl: `https://tryhard.football/`,
   },
   plugins: [
     {
@@ -19,15 +19,45 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `${__dirname}/content/assets`,
-        name: `assets`,
+        path: `${__dirname}/src/images`,
+        name: `images`,
       },
     },
     {
       resolve: `gatsby-plugin-mdx`,
       options: {
-        extensions: [`.mdx`, `.md`],
+        extensions: [".mdx", ".md"],
         gatsbyRemarkPlugins: [
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              maxWidth: 800,
+            },
+          },
+          {
+            resolve: `gatsby-remark-responsive-iframe`,
+            options: {
+              wrapperStyle: `margin-bottom: 1.0725rem`,
+            },
+          },
+          `gatsby-remark-prismjs`,
+          `gatsby-remark-copy-linked-files`,
+          `gatsby-remark-smartypants`,
+        ],
+      },
+    },
+    `gatsby-plugin-image`,
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/content/blog`,
+        name: `blog`,
+      },
+    },
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [
           {
             resolve: `gatsby-remark-images`,
             options: {
@@ -49,22 +79,59 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
-      resolve: `gatsby-plugin-google-analytics`,
+      resolve: `gatsby-plugin-feed`,
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
-      },
-    },
-    `gatsby-plugin-feed-mdx`,
-    {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
-        start_url: `/`,
-        background_color: `#ffffff`,
-        theme_color: `#663399`,
-        display: `minimal-ui`,
-        icon: `content/assets/champion.png`,
+        query: `
+          {
+            site {
+              siteMetadata {
+                title
+                description
+                siteUrl
+                site_url: siteUrl
+              }
+            }
+          }
+        `,
+        feeds: [
+          {
+            serialize: ({ query: { site, allMdx } }) => {
+              return allMdx.edges.map(node => {
+                return Object.assign({}, node.frontmatter, {
+                  title: node.node.frontmatter.title,
+                  description: node.node.excerpt,
+                  date: node.node.frontmatter.date,
+                  url: site.siteMetadata.siteUrl + node.node.fields.slug,
+                  guid: site.siteMetadata.siteUrl + node.node.fields.slug,
+                  custom_elements: [{ "content:encoded": node.node.html }],
+                })
+              })
+            },
+            query: `
+              {
+                allMdx(sort: { fields: [frontmatter___date], order: DESC }) {
+                  edges {
+                    node {
+                      excerpt
+                      html
+                      fields {
+                        slug
+                      }
+                      frontmatter {
+                        date
+                        title
+                        description
+                        tag
+                      }
+                    }
+                  }
+                }
+              }
+            `,
+            output: "/rss.xml",
+            title: "Scottie Enriquez Blog Feed RSS",
+          },
+        ],
       },
     },
     `gatsby-plugin-react-helmet`,
@@ -74,8 +141,5 @@ module.exports = {
         pathToConfigModule: `src/utils/typography`,
       },
     },
-    // this (optional) plugin enables Progressive Web App + Offline functionality
-    // To learn more, visit: https://gatsby.dev/offline
-    // `gatsby-plugin-offline`,
   ],
 }
