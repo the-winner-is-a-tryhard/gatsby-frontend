@@ -174,7 +174,7 @@ TWIATH: #4. Although a little more boom-heavy like myself, Scottie is in a great
 | Darrell Henderson   | LAR-RB  | 1     |
 | Pittsburgh Steelers | PIT-DEF |       |
 
-## Travis, Mark, Carl - I just can't chose between Trav, Mark, and Carl, so I'm calling it a tie. All three of these bald men are beautiful. The beards are all strong and thick. They're fit. The full bald package.
+#### Travis, Mark, Carl - I just can't chose between Trav, Mark, and Carl, so I'm calling it a tie. All three of these bald men are beautiful. The beards are all strong and thick. They're fit. The full bald package.
 
 ## <FontAwesomeIcon className="levelUp" icon={faLevelUpAlt} /> <img src="https://d1yqxti3jheii7.cloudfront.net/74fa749fa8b47609e14d12a902511733-two-john" class="sleeper-avatar"/> Jalen the Super Saiyan | 1-1W/L | 241PF
 
