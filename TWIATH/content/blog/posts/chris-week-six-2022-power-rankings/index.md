@@ -140,7 +140,7 @@ Great job by Michael Pittman this week with a monster game. But, like a lot of J
 | Romeo Doubs     | GB-WR   | 1     |
 | Dallas Cowboys  | DAL-DEF |       |
 
-## <FontAwesomeIcon className="levelUp" icon={faLevelUpAlt} /> <img src="https://d1yqxti3jheii7.cloudfront.net/1bac27b3e88d08f050e32b48195acf46-six-chris" class="sleeper-avatar"/> Dollar General Box Fans | 3-3W/L | 591PF
+## <FontAwesomeIcon className="levelDown" icon={faLevelDownAlt} /> <img src="https://d1yqxti3jheii7.cloudfront.net/1bac27b3e88d08f050e32b48195acf46-six-chris" class="sleeper-avatar"/> Dollar General Box Fans | 3-3W/L | 591PF
 
 ### Week Six Points: 73.24
 
@@ -196,7 +196,7 @@ Another week, another Kirk Cousins disappointment. The QBs this week in general 
 | Cooper Kupp         | LAR-WR  | 1     |
 | Philadelphia Eagles | PHI-DEF |       |
 
-## <FontAwesomeIcon className="levelUp" icon={faLevelUpAlt} /> <img src="https://d1yqxti3jheii7.cloudfront.net/d4a248857805d63cd2b3c95a760181c3-six-chris" class="sleeper-avatar"/> Taylor Moon | 3-3W/L | 588PF
+## <FontAwesomeIcon className="levelDown" icon={faLevelDownAlt} /> <img src="https://d1yqxti3jheii7.cloudfront.net/d4a248857805d63cd2b3c95a760181c3-six-chris" class="sleeper-avatar"/> Taylor Moon | 3-3W/L | 588PF
 
 > My team got bad fast.
 
