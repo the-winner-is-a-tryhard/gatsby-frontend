@@ -11,7 +11,7 @@ import { faLevelUpAlt } from "@fortawesome/free-solid-svg-icons"
 import { faLevelDownAlt } from "@fortawesome/free-solid-svg-icons"
 
 
-## <FontAwesomeIcon className="levelUp" icon={faLevelUpAlt} /> <img src="https://d1yqxti3jheii7.cloudfront.net/b04d6b963c23d1e407713bc51755826d-nine-matt" class="sleeper-avatar"/> All Gaskin No Breaks | 6-3W/L | 928PF
+## <FontAwesomeIcon className="levelUp" icon={faLevelUpAlt} /> <img src="https://dxyip34awyjyf.cloudfront.net/b04d6b963c23d1e407713bc51755826d-nine-matt" class="sleeper-avatar"/> All Gaskin No Breaks | 6-3W/L | 928PF
 
 > Big sad about UT and the 'Stros. My fantasy team is looking good though. Pulling for your fantasy team as well so that we have a better chance for a Holland, Michigan draft in 2022.
 
@@ -31,7 +31,7 @@ Scottie wasn't quite able to pull out the win against Mark's season-high outburs
 | Justin Jefferson     | MIN-WR | 1     |
 | New England Patriots | NE-DEF |       |
 
-## <FontAwesomeIcon className="levelUp" icon={faLevelUpAlt} /> <img src="https://d1yqxti3jheii7.cloudfront.net/a91cfbe2665c3bc237b6aa5199fb0d7a-nine-matt" class="sleeper-avatar"/> Steppe Brother | 6-3W/L | 904PF
+## <FontAwesomeIcon className="levelUp" icon={faLevelUpAlt} /> <img src="https://dxyip34awyjyf.cloudfront.net/a91cfbe2665c3bc237b6aa5199fb0d7a-nine-matt" class="sleeper-avatar"/> Steppe Brother | 6-3W/L | 904PF
 
 > TU continued its tradition of performing well as a significant underdog, extending its streak of covering against ranked opponents to 11 games in a row.
 
@@ -51,7 +51,7 @@ My team was able to squeak out a win over Trond this weekend with Matthew Staffo
 | Ja'Marr Chase      | CIN-WR | 1     |
 | New Orleans Saints | NO-DEF |       |
 
-## <FontAwesomeIcon className="levelUp" icon={faLevelUpAlt} /> <img src="https://d1yqxti3jheii7.cloudfront.net/d4a248857805d63cd2b3c95a760181c3-nine-matt" class="sleeper-avatar"/> Zeke Squad | 5-4W/L | 921PF
+## <FontAwesomeIcon className="levelUp" icon={faLevelUpAlt} /> <img src="https://dxyip34awyjyf.cloudfront.net/d4a248857805d63cd2b3c95a760181c3-nine-matt" class="sleeper-avatar"/> Zeke Squad | 5-4W/L | 921PF
 
 > At the end of the year, at least I have a Crop Judging title.
 
@@ -71,7 +71,7 @@ John's team's production has fallen off in recent weeks, but he's still bolstere
 | Diontae Johnson     | PIT-WR  | 1     |
 | Pittsburgh Steelers | PIT-DEF |       |
 
-## <FontAwesomeIcon className="levelUp" icon={faLevelUpAlt} /> <img src="https://d1yqxti3jheii7.cloudfront.net/83296c4221970b26ea4d019a7581d032-nine-matt" class="sleeper-avatar"/> all i know is pain | 6-3W/L | 840PF
+## <FontAwesomeIcon className="levelUp" icon={faLevelUpAlt} /> <img src="https://dxyip34awyjyf.cloudfront.net/83296c4221970b26ea4d019a7581d032-nine-matt" class="sleeper-avatar"/> all i know is pain | 6-3W/L | 840PF
 
 > I was gonna pick up Andrew Yang off the waiver wire and start him at RB with all the running he’s been doing but I think he’s partying too much these days.
 
@@ -91,7 +91,7 @@ Andrew Yang would've definitely provided some much needed RB depth to this squad
 | Robert Woods          | LAR-WR  | 1     |
 | Buffalo Bills         | BUF-DEF |       |
 
-## <FontAwesomeIcon className="levelUp" icon={faLevelUpAlt} /> <img src="https://d1yqxti3jheii7.cloudfront.net/405213591fe488220f2f4f79d9cc28eb-nine-matt" class="sleeper-avatar"/> Glizzy Guzzlers | 4-5W/L | 886PF
+## <FontAwesomeIcon className="levelUp" icon={faLevelUpAlt} /> <img src="https://dxyip34awyjyf.cloudfront.net/405213591fe488220f2f4f79d9cc28eb-nine-matt" class="sleeper-avatar"/> Glizzy Guzzlers | 4-5W/L | 886PF
 
 > Who in the fuck in Derrick Gore? Why is he taking all my points? Why has God forsaken my fantasy team? Is it because Logan watches more anime than me? Where do babies come from? Why so the keep making so many star wars spinoffs? How do magnets work?
 
@@ -111,7 +111,7 @@ Callen just missed out scoring in the top half the league this week due to a dow
 | Aaron Jones          | GB-RB  | 1     |
 | Tampa Bay Buccaneers | TB-DEF |       |
 
-## <FontAwesomeIcon className="levelUp" icon={faLevelUpAlt} /> <img src="https://d1yqxti3jheii7.cloudfront.net/74fa749fa8b47609e14d12a902511733-nine-matt" class="sleeper-avatar"/> Jordan '96 '97 | 6-3W/L | 822PF
+## <FontAwesomeIcon className="levelUp" icon={faLevelUpAlt} /> <img src="https://dxyip34awyjyf.cloudfront.net/74fa749fa8b47609e14d12a902511733-nine-matt" class="sleeper-avatar"/> Jordan '96 '97 | 6-3W/L | 822PF
 
 > A&M Football > Cowboys > Astros > That 3rd TWIATH ring >>>
 
@@ -131,7 +131,7 @@ Travis scored the second-most points this week on the backs of season-high marks
 | Javonte Williams         | DEN-RB  | 2     |
 | Washington Football Team | WAS-DEF |       |
 
-## <FontAwesomeIcon className="levelUp" icon={faLevelUpAlt} /> <img src="https://d1yqxti3jheii7.cloudfront.net/1bac27b3e88d08f050e32b48195acf46-nine-matt" class="sleeper-avatar"/> Pole Assassin’s Monkey | 4-5W/L | 859PF
+## <FontAwesomeIcon className="levelUp" icon={faLevelUpAlt} /> <img src="https://dxyip34awyjyf.cloudfront.net/1bac27b3e88d08f050e32b48195acf46-nine-matt" class="sleeper-avatar"/> Pole Assassin’s Monkey | 4-5W/L | 859PF
 
 > One of these days we will play without a player on your team going for 50 lol.
 
@@ -151,7 +151,7 @@ Mark secured the bag this week in spite of Jonathan Taylor giving him quite the 
 | Tee Higgins      | CIN-WR  | 1     |
 | Cleveland Browns | CLE-DEF |       |
 
-## <FontAwesomeIcon className="levelUp" icon={faLevelUpAlt} /> <img src="https://d1yqxti3jheii7.cloudfront.net/23fe4994d864928df8f99d56b60c9179-nine-matt" class="sleeper-avatar"/> GLOATS Team Lead | 4-5W/L | 807PF
+## <FontAwesomeIcon className="levelUp" icon={faLevelUpAlt} /> <img src="https://dxyip34awyjyf.cloudfront.net/23fe4994d864928df8f99d56b60c9179-nine-matt" class="sleeper-avatar"/> GLOATS Team Lead | 4-5W/L | 807PF
 
 > Sounds like you just need to get your hands on some more alpha brain.
 
@@ -171,7 +171,7 @@ It looks like Logan alpha-brained his backup QB situation, with Kirk Cousins fil
 | Sterling Shepard  | NYG-WR  | 1     |
 | Los Angeles Rams  | LAR-DEF |       |
 
-## <FontAwesomeIcon className="levelDown" icon={faLevelDownAlt} /> <img src="https://d1yqxti3jheii7.cloudfront.net/400266e997f2d0857da2c8f2b939fda4-nine-matt" class="sleeper-avatar"/> Uncle Cral's Little Dogs | 4-5W/L | 830PF
+## <FontAwesomeIcon className="levelDown" icon={faLevelDownAlt} /> <img src="https://dxyip34awyjyf.cloudfront.net/400266e997f2d0857da2c8f2b939fda4-nine-matt" class="sleeper-avatar"/> Uncle Cral's Little Dogs | 4-5W/L | 830PF
 
 > I'm bout to just give my team to Neal and let him finish out the season for me.
 
@@ -191,7 +191,7 @@ Carl's team is spiraling at the moment. Outside of Joe Burrow, Darren Waller, an
 | Kenny Golladay    | NYG-WR  | 1 (Q) |
 | Arizona Cardinals | ARI-DEF |       |
 
-## <FontAwesomeIcon className="levelDown" icon={faLevelDownAlt} /> <img src="https://d1yqxti3jheii7.cloudfront.net/61bfca158073b2dda70f755d92aacad9-nine-matt" class="sleeper-avatar"/> These rankings are trash | 2-7W/L | 822PF
+## <FontAwesomeIcon className="levelDown" icon={faLevelDownAlt} /> <img src="https://dxyip34awyjyf.cloudfront.net/61bfca158073b2dda70f755d92aacad9-nine-matt" class="sleeper-avatar"/> These rankings are trash | 2-7W/L | 822PF
 
 > What the actual fuck are these rankings?
 
@@ -211,7 +211,7 @@ Andrew's team looks much better on paper than what's been reflected in its perfo
 | Danny Amendola      | HOU-WR  | 2     |
 | Baltimore Ravens    | BAL-DEF |       |
 
-## <FontAwesomeIcon className="levelDown" icon={faLevelDownAlt} /> <img src="https://d1yqxti3jheii7.cloudfront.net/d57bddeb09e102a2b7556973dc6301fb-nine-matt" class="sleeper-avatar"/>  GodWinsGunninRunninNuns | 5-4W/L | 764PF
+## <FontAwesomeIcon className="levelDown" icon={faLevelDownAlt} /> <img src="https://dxyip34awyjyf.cloudfront.net/d57bddeb09e102a2b7556973dc6301fb-nine-matt" class="sleeper-avatar"/>  GodWinsGunninRunninNuns | 5-4W/L | 764PF
 
 > My team really needed to play its bench this week cause my starting line up is too good.
 
@@ -231,7 +231,7 @@ How this team has a 5-4 record despite having the lowest points for is astoundin
 | Jarvis Landry  | CLE-WR  | 1     |
 | Denver Broncos | DEN-DEF |       |
 
-## <FontAwesomeIcon className="levelDown" icon={faLevelDownAlt} /> <img src="https://d1yqxti3jheii7.cloudfront.net/320f9195b391718105e27b8cc9d40277-nine-matt" class="sleeper-avatar"/> Unaccredited Chili Guy | 2-7W/L | 800PF
+## <FontAwesomeIcon className="levelDown" icon={faLevelDownAlt} /> <img src="https://dxyip34awyjyf.cloudfront.net/320f9195b391718105e27b8cc9d40277-nine-matt" class="sleeper-avatar"/> Unaccredited Chili Guy | 2-7W/L | 800PF
 
 > It’s alright I’m just playing @K-Man. Historically, he lets me win every time.
 

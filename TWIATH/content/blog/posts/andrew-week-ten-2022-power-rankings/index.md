@@ -16,7 +16,7 @@ Amarillo Fact of the Week: The settlement originally was called Oneida; it later
 
 And with that, the most yellow of Power Rankings one could be thankful for. In honor of the upcoming Thanksgiving Holiday, I share with you Andrew’s Thanksgiving Golden Utensil Power Rankings.
 
-## <FontAwesomeIcon className="levelUp" icon={faLevelUpAlt} /> <img src="https://d1yqxti3jheii7.cloudfront.net/61bfca158073b2dda70f755d92aacad9-ten-andrew" class="sleeper-avatar"/> Saquon deez nuts | 8-2W/L | 1007PF
+## <FontAwesomeIcon className="levelUp" icon={faLevelUpAlt} /> <img src="https://dxyip34awyjyf.cloudfront.net/61bfca158073b2dda70f755d92aacad9-ten-andrew" class="sleeper-avatar"/> Saquon deez nuts | 8-2W/L | 1007PF
 
 ### Week Ten Points: 93.64
 
@@ -38,7 +38,7 @@ The most elite of the Thanksgiving utensils. The golden serving fork is reserved
 | Devin Singletary      | BUF-RB | 1     |
 | San Francisco 49ers   | SF-DEF |       |
 
-## <FontAwesomeIcon className="levelUp" icon={faLevelUpAlt} /> <img src="https://d1yqxti3jheii7.cloudfront.net/b04d6b963c23d1e407713bc51755826d-ten-andrew" class="sleeper-avatar"/> Dragonball Zeke | 7-3W/L | 1194PF
+## <FontAwesomeIcon className="levelUp" icon={faLevelUpAlt} /> <img src="https://dxyip34awyjyf.cloudfront.net/b04d6b963c23d1e407713bc51755826d-ten-andrew" class="sleeper-avatar"/> Dragonball Zeke | 7-3W/L | 1194PF
 
 ### Week Ten Points: 107.95
 
@@ -60,7 +60,7 @@ Oh, the golden knife, how it perfectly sits in one’s hand to slice the perfect
 | Deebo Samuel      | SF-WR  | 1     |
 | Las Vegas Raiders | LV-DEF |       |
 
-## <FontAwesomeIcon className="levelUp" icon={faLevelUpAlt} /> <img src="https://d1yqxti3jheii7.cloudfront.net/405213591fe488220f2f4f79d9cc28eb-ten-andrew" class="sleeper-avatar"/> Fullmetal Ekelerist | 7-3W/L | 1093PF
+## <FontAwesomeIcon className="levelUp" icon={faLevelUpAlt} /> <img src="https://dxyip34awyjyf.cloudfront.net/405213591fe488220f2f4f79d9cc28eb-ten-andrew" class="sleeper-avatar"/> Fullmetal Ekelerist | 7-3W/L | 1093PF
 
 ### Week Ten Points: 121.03
 
@@ -82,7 +82,7 @@ The golden salad tongs, many undervalue this utensil. Fear not though as this ut
 | Austin Ekeler    | LAC-RB  | 1     |
 | Tennessee Titans | TEN-DEF |       |
 
-## <FontAwesomeIcon className="levelUp" icon={faLevelUpAlt} /> <img src="https://d1yqxti3jheii7.cloudfront.net/320f9195b391718105e27b8cc9d40277-ten-andrew" class="sleeper-avatar"/> Unaccredited Chili Guy | 3-7W/L | 1122PF
+## <FontAwesomeIcon className="levelUp" icon={faLevelUpAlt} /> <img src="https://dxyip34awyjyf.cloudfront.net/320f9195b391718105e27b8cc9d40277-ten-andrew" class="sleeper-avatar"/> Unaccredited Chili Guy | 3-7W/L | 1122PF
 
 ### Week Ten Points: 89.43
 
@@ -104,7 +104,7 @@ Oh Trond, Trond, Trond, Trond. You sir are the golden slotted spoon. While argua
 | Pat Freiermuth        | PIT-TE  | 1     |
 | Los Angeles Rams      | LAR-DEF |       |
 
-## <FontAwesomeIcon className="levelUp" icon={faLevelUpAlt} /> <img src="https://d1yqxti3jheii7.cloudfront.net/a18f9fc9312fa9c2003503730b41e7fc-ten-andrew" class="sleeper-avatar"/> Jalen the Super Saiyan | 6-4W/L | 988PF
+## <FontAwesomeIcon className="levelUp" icon={faLevelUpAlt} /> <img src="https://dxyip34awyjyf.cloudfront.net/a18f9fc9312fa9c2003503730b41e7fc-ten-andrew" class="sleeper-avatar"/> Jalen the Super Saiyan | 6-4W/L | 988PF
 
 ### Week Ten Points: 96.75
 
@@ -126,7 +126,7 @@ Similar to the all-mighty severing fork, the golden meat fork is quite the Thank
 | Najee Harris        | PIT-RB  | 1     |
 | Dallas Cowboys      | DAL-DEF |       |
 
-## <FontAwesomeIcon className="levelUp" icon={faLevelUpAlt} /> <img src="https://d1yqxti3jheii7.cloudfront.net/23fe4994d864928df8f99d56b60c9179-ten-andrew" class="sleeper-avatar"/> My Hero Alvin Kamaria | 6-4W/L | 1066PF
+## <FontAwesomeIcon className="levelUp" icon={faLevelUpAlt} /> <img src="https://dxyip34awyjyf.cloudfront.net/23fe4994d864928df8f99d56b60c9179-ten-andrew" class="sleeper-avatar"/> My Hero Alvin Kamaria | 6-4W/L | 1066PF
 
 ### Week Ten Points: 99.77
 
@@ -148,7 +148,7 @@ If you know anything about Thanksgiving feasts you know spoons are hit or miss. 
 | Terry McLaurin       | WAS-WR | 1     |
 | Tampa Bay Buccaneers | TB-DEF |       |
 
-## <FontAwesomeIcon className="levelDown" icon={faLevelDownAlt} /> <img src="https://d1yqxti3jheii7.cloudfront.net/1bac27b3e88d08f050e32b48195acf46-ten-andrew" class="sleeper-avatar"/> Dollar General Box Fans | 4-6W/L | 1012PF
+## <FontAwesomeIcon className="levelDown" icon={faLevelDownAlt} /> <img src="https://dxyip34awyjyf.cloudfront.net/1bac27b3e88d08f050e32b48195acf46-ten-andrew" class="sleeper-avatar"/> Dollar General Box Fans | 4-6W/L | 1012PF
 
 ### Week Ten Points: 143.64
 
@@ -170,7 +170,7 @@ Mark is the golden dinner fork. The most used and abused of all utensils. His te
 | James Conner        | ARI-RB  | 1 (Q) |
 | Miami Dolphins      | MIA-DEF |       |
 
-## <FontAwesomeIcon className="levelDown" icon={faLevelDownAlt} /> <img src="https://d1yqxti3jheii7.cloudfront.net/400266e997f2d0857da2c8f2b939fda4-ten-andrew" class="sleeper-avatar"/> JoJo's Ja'Marr Adventure | 4-6W/L | 1021PF
+## <FontAwesomeIcon className="levelDown" icon={faLevelDownAlt} /> <img src="https://dxyip34awyjyf.cloudfront.net/400266e997f2d0857da2c8f2b939fda4-ten-andrew" class="sleeper-avatar"/> JoJo's Ja'Marr Adventure | 4-6W/L | 1021PF
 
 ### Week Ten Points: 116.75
 
@@ -192,7 +192,7 @@ The golden dinner knife can wield power as long as the edge stays sharp. With th
 | George Pickens      | PIT-WR  | 1     |
 | Philadelphia Eagles | PHI-DEF |       |
 
-## <FontAwesomeIcon className="levelDown" icon={faLevelDownAlt} /> <img src="https://d1yqxti3jheii7.cloudfront.net/d57bddeb09e102a2b7556973dc6301fb-ten-andrew" class="sleeper-avatar"/> Derrick on Titan | 3-7W/L | 1040PF
+## <FontAwesomeIcon className="levelDown" icon={faLevelDownAlt} /> <img src="https://dxyip34awyjyf.cloudfront.net/d57bddeb09e102a2b7556973dc6301fb-ten-andrew" class="sleeper-avatar"/> Derrick on Titan | 3-7W/L | 1040PF
 
 ### Week Ten Points: 75.53
 
@@ -214,7 +214,7 @@ Matt and his team are about as sweet as the pie that this golden pastry server t
 | Wan'Dale Robinson | NYG-WR  | 2 (Q) |
 | Buffalo Bills     | BUF-DEF |       |
 
-## <FontAwesomeIcon className="levelDown" icon={faLevelDownAlt} /> <img src="https://d1yqxti3jheii7.cloudfront.net/83296c4221970b26ea4d019a7581d032-ten-andrew" class="sleeper-avatar"/> Cheeseburger Lenny | 4-6W/L | 1033PF
+## <FontAwesomeIcon className="levelDown" icon={faLevelDownAlt} /> <img src="https://dxyip34awyjyf.cloudfront.net/83296c4221970b26ea4d019a7581d032-ten-andrew" class="sleeper-avatar"/> Cheeseburger Lenny | 4-6W/L | 1033PF
 
 ### Week Ten Points: 84.1
 
@@ -236,7 +236,7 @@ Then there is Cramsey and his golden butter knife of a team. Lacking both cuttin
 | Michael Gallup     | DAL-WR | 1 (Q) |
 | Kansas City Chiefs | KC-DEF |       |
 
-## <FontAwesomeIcon className="levelDown" icon={faLevelDownAlt} /> <img src="https://d1yqxti3jheii7.cloudfront.net/d4a248857805d63cd2b3c95a760181c3-ten-andrew" class="sleeper-avatar"/> Taylor Moon | 4-6W/L | 980PF
+## <FontAwesomeIcon className="levelDown" icon={faLevelDownAlt} /> <img src="https://dxyip34awyjyf.cloudfront.net/d4a248857805d63cd2b3c95a760181c3-ten-andrew" class="sleeper-avatar"/> Taylor Moon | 4-6W/L | 980PF
 
 ### Week Ten Points: 115.35
 
@@ -258,7 +258,7 @@ John is the golden dessert spoon. It is small and feeble and also setup far away
 | Curtis Samuel    | WAS-WR  | 1     |
 | New York Giants  | NYG-DEF |       |
 
-## <FontAwesomeIcon className="levelDown" icon={faLevelDownAlt} /> <img src="https://d1yqxti3jheii7.cloudfront.net/0658c50f92789c23a6f0b1efef9dbdaa-ten-andrew" class="sleeper-avatar"/> Neon Genesis Etienne | 4-6W/L | 939PF
+## <FontAwesomeIcon className="levelDown" icon={faLevelDownAlt} /> <img src="https://dxyip34awyjyf.cloudfront.net/0658c50f92789c23a6f0b1efef9dbdaa-ten-andrew" class="sleeper-avatar"/> Neon Genesis Etienne | 4-6W/L | 939PF
 
 ### Week Ten Points: 101.37
 

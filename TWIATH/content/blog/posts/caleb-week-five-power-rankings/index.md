@@ -12,7 +12,7 @@ import { faLevelUpAlt } from "@fortawesome/free-solid-svg-icons"
 import { faLevelDownAlt } from "@fortawesome/free-solid-svg-icons"
 
 
-## <FontAwesomeIcon className="levelUp" icon={faLevelUpAlt} /> <img src="https://d1yqxti3jheii7.cloudfront.net/1bac27b3e88d08f050e32b48195acf46-five-caleb" class="sleeper-avatar"/> FEED ME 🥄 | 4-1W/L | 569PF
+## <FontAwesomeIcon className="levelUp" icon={faLevelUpAlt} /> <img src="https://dxyip34awyjyf.cloudfront.net/1bac27b3e88d08f050e32b48195acf46-five-caleb" class="sleeper-avatar"/> FEED ME 🥄 | 4-1W/L | 569PF
 
 > I don't watch ankle injuries.
 
@@ -50,7 +50,7 @@ It may not be the sexiest team, but it gets the job done. Despite almost being o
 | Laviska Shenault    | JAX-WR  | 1 (Q) |
 | Pittsburgh Steelers | PIT-DEF |       |
 
-## <FontAwesomeIcon className="levelUp" icon={faLevelUpAlt} /> <img src="https://d1yqxti3jheii7.cloudfront.net/74fa749fa8b47609e14d12a902511733-five-caleb" class="sleeper-avatar"/> 🏆‼️ | 4-1W/L | 537PF
+## <FontAwesomeIcon className="levelUp" icon={faLevelUpAlt} /> <img src="https://dxyip34awyjyf.cloudfront.net/74fa749fa8b47609e14d12a902511733-five-caleb" class="sleeper-avatar"/> 🏆‼️ | 4-1W/L | 537PF
 
 Cook going down was scary, but it doesn't look like he will be out long. Mattison has put up good numbers in the past with Cook out, and it hasn't affected his workload upon return, so I don't expect it to this time either. Travis has a strong RB corp plus Lockett and Parker. While not outstanding, they have been consistent, which is weird for both of them. A couple of classic Lockett breakouts matched that with MVP frontrunner Josh Allen making a strong comeback from a weak week, and I think Tarv could do the repeat.
 
@@ -68,7 +68,7 @@ Cook going down was scary, but it doesn't look like he will be out long. Mattiso
 | Diontae Johnson    | PIT-WR  | 1 (Q) |
 | Indianapolis Colts | IND-DEF |       |
 
-## <FontAwesomeIcon className="levelUp" icon={faLevelUpAlt} /> <img src="https://d1yqxti3jheii7.cloudfront.net/400266e997f2d0857da2c8f2b939fda4-five-caleb" class="sleeper-avatar"/> Uncle Cral's Little Dogs | 3-2W/L | 458PF
+## <FontAwesomeIcon className="levelUp" icon={faLevelUpAlt} /> <img src="https://dxyip34awyjyf.cloudfront.net/400266e997f2d0857da2c8f2b939fda4-five-caleb" class="sleeper-avatar"/> Uncle Cral's Little Dogs | 3-2W/L | 458PF
 
 > Thanks for not starting Mikey.
 
@@ -106,7 +106,7 @@ Carlough will complain that these 'rankings are trash,' but when your QB and RB1
 | Mike Davis       | CAR-RB  | 1     |
 | Houston Texans   | HOU-DEF |       |
 
-## <FontAwesomeIcon className="levelUp" icon={faLevelUpAlt} /> <img src="https://d1yqxti3jheii7.cloudfront.net/83296c4221970b26ea4d019a7581d032-five-caleb" class="sleeper-avatar"/> <- THIS GUY SLEEPS AT HEB | 3-2W/L | 540PF
+## <FontAwesomeIcon className="levelUp" icon={faLevelUpAlt} /> <img src="https://dxyip34awyjyf.cloudfront.net/83296c4221970b26ea4d019a7581d032-five-caleb" class="sleeper-avatar"/> <- THIS GUY SLEEPS AT HEB | 3-2W/L | 540PF
 
 Chris had a poor showing this week, but this team is not far off from being fully healthy and the scariest team in the league again. He has three high-quality running backs and Mahomes. Even with Cooper looking not too hot, especially now that Dak is out, this team will be tough for anyone to beat. I don't have him higher because his bench strength is hurting, as you saw this week. Maybe you should talk to Carlough about upgrading a wide receiver. Just don't trade with John.
 
@@ -124,7 +124,7 @@ Chris had a poor showing this week, but this team is not far off from being full
 | Olamide Zaccheaus | ATL-WR  | 2     |
 | Los Angeles Rams  | LAR-DEF |       |
 
-## <FontAwesomeIcon className="levelDown" icon={faLevelDownAlt} /> <img src="https://d1yqxti3jheii7.cloudfront.net/405213591fe488220f2f4f79d9cc28eb-five-caleb" class="sleeper-avatar"/> Glizzy Guzzlers | 3-2W/L | 525PF
+## <FontAwesomeIcon className="levelDown" icon={faLevelDownAlt} /> <img src="https://dxyip34awyjyf.cloudfront.net/405213591fe488220f2f4f79d9cc28eb-five-caleb" class="sleeper-avatar"/> Glizzy Guzzlers | 3-2W/L | 525PF
 
 It was a good turnout this week, no doubt, and that was with Adams and Jones on bye weeks. You're playing from a tough spot right now. I want to rank you higher just because your Freeman bet paid off, and Ekeler will be back soon. However, your bench is as strong as they are in the weight room, and your receivers leave much to be desired. Even with Devante back, a touchdown from him means Aaron Jones doesn't get one.
 
@@ -142,7 +142,7 @@ It was a good turnout this week, no doubt, and that was with Adams and Jones on 
 | Greg Ward         | PHI-WR  | 1     |
 | Arizona Cardinals | ARI-DEF |       |
 
-## <FontAwesomeIcon className="levelDown" icon={faLevelDownAlt} /> <img src="https://d1yqxti3jheii7.cloudfront.net/a91cfbe2665c3bc237b6aa5199fb0d7a-five-caleb" class="sleeper-avatar"/> Digital Nomad | 3-2W/L | 469PF
+## <FontAwesomeIcon className="levelDown" icon={faLevelDownAlt} /> <img src="https://dxyip34awyjyf.cloudfront.net/a91cfbe2665c3bc237b6aa5199fb0d7a-five-caleb" class="sleeper-avatar"/> Digital Nomad | 3-2W/L | 469PF
 
 This team has so much potential, but K-Man's choice to pick fifth instead of fourth continues to haunt him. CEH hasn't looked all that special, and it's rumored the Chiefs might even bring in Bell. Wouldn't that be hilarious? Ridley has been a pleasant surprise, and Carson has been consistent, but until the team can put it all together, it's going to be hard to win consistently. Tannehill is not going to put up 30 every week. Did I mention Kamara is the number one running back?
 
@@ -160,7 +160,7 @@ This team has so much potential, but K-Man's choice to pick fifth instead of fou
 | David Montgomery      | CHI-RB | 1     |
 | New Orleans Saints    | NO-DEF |       |
 
-## <FontAwesomeIcon className="levelDown" icon={faLevelDownAlt} /> <img src="https://d1yqxti3jheii7.cloudfront.net/c3fc37ddf5747c461ca159edd91f4f20-five-caleb" class="sleeper-avatar"/> Public Ivy Runner-Up 🥈 | 1-4W/L | 448PF
+## <FontAwesomeIcon className="levelDown" icon={faLevelDownAlt} /> <img src="https://dxyip34awyjyf.cloudfront.net/c3fc37ddf5747c461ca159edd91f4f20-five-caleb" class="sleeper-avatar"/> Public Ivy Runner-Up 🥈 | 1-4W/L | 448PF
 
 > I'll trade you Mark Ingram for the rest of your pho. That way, I can get something meaningful for him, at least.
 
@@ -199,7 +199,7 @@ This team could have been in a pretty good spot with a few waiver pickups and ma
 | Sammy Watkins    | KC-WR   | 1 (Q) |
 | Seattle Seahawks | SEA-DEF |       |
 
-## <FontAwesomeIcon className="levelDown" icon={faLevelDownAlt} /> <img src="https://d1yqxti3jheii7.cloudfront.net/94702f21e95d3aa14c8d671585ae6c58-five-caleb" class="sleeper-avatar"/> The Mixon Administration | 2-3W/L | 463PF
+## <FontAwesomeIcon className="levelDown" icon={faLevelDownAlt} /> <img src="https://dxyip34awyjyf.cloudfront.net/94702f21e95d3aa14c8d671585ae6c58-five-caleb" class="sleeper-avatar"/> The Mixon Administration | 2-3W/L | 463PF
 
 > Did you watch any anime today? Wondering if I should start three Chargers or not.
 
