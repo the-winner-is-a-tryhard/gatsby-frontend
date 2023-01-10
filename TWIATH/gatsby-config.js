@@ -3,7 +3,7 @@ module.exports = {
     title: `The Winner Is a Tryhard`,
     author: {
       name: `The Winner Is a Tryhard`,
-      summary: `is the dankest fantasy football league of all time. Matt Kniowski is the reigning champion, and Logan Richardson is the current Sacko.`,
+      summary: `is the dankest fantasy football league of all time. Mark Hamilton is the reigning champion, and Matt Kniowski is the current Sacko.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://tryhard.football/`,
